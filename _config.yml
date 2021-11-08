@@ -59,13 +59,13 @@ plugins:
 
 author:
   name   : "Gordon Smith"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/IMG_20190517_095621906.jpg"
   bio    : "Intraspecific variation in pollinator foraging behavior"
   links:
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/gosmith2"
     - label: "OrcID"
       icon: 
       url: "https://orcid.org/0000-0001-6681-542X"
