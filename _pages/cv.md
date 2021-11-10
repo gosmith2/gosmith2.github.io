@@ -24,8 +24,8 @@ redirect_from:
 |:----:|:--------:|
 | 2021 | Undergraduate mentor. Department of Neurobiology and Behavior, Cornell University. |
 |2013 -- 2019 | Teaching assistant and guest lecturer. Department of Ecology and Evolutionary Biology, University of Arizona.  Courses: 
-Introductory Biology (182) - 2015, 2019|
-| 2015, 2019 | Introductory Biology (182) |
+| Courses: | Introductory Biology (182) - 2015, 2019 |
+| -- | Introductory Biology (182) |
 | 2015 -- 2018 | Natural History of the Southwest (230) |
 | 2018 | Ecology (302) |
 | 2014 -- 2018 | Animal Behavior (487): 2014 -- 2018  |
