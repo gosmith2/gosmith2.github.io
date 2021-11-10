@@ -1,5 +1,7 @@
 Dr. Gordon Smith, NSF Postdoctoral Fellow, Department of Neurobiology and Behaivor, Cornell University. 
+
 Website direct link: [gosmith2.github.io](gosmith2.github.io)
+
 Email: gosmith2@gmail.com
 
 ---
