@@ -23,13 +23,13 @@ redirect_from:
 | Year | Position |
 |:----:|:--------:|
 | 2021 | Undergraduate mentor. Department of Neurobiology and Behavior, Cornell University. |
-|2013 -- 2019 | Teaching assistant and guest lecturer. Department of Ecology and Evolutionary Biology, University of Arizona.  
-                Courses: 
-                    Introductory Biology (182): 2015, 2019
-                    Natural History of the Southwest (230): 2015 -- 2018
-                    Ecology (302): 2018
-                    Animal Behavior (487): 2014 -- 2018  |
+|2013 -- 2019 | Teaching assistant and guest lecturer. Department of Ecology and Evolutionary Biology, University of Arizona. | 
+              | Courses: |
+                   | Introductory Biology (182): 2015, 2019 |
+                   | Natural History of the Southwest (230): 2015 -- 2018 |
+                   | Ecology (302): 2018 |
+                   | Animal Behavior (487): 2014 -- 2018  |
 | 2014 -- 2019 | Undergraduate mentor. Department of Ecology and Evolutionary Biology, University of Arizona. |
-| 2014 -- 2017 | Keep Engaging Youth in Science (KEYS) Mentor. KEYS Internship Program, University of Arizona. 
+| 2014 -- 2017 | Keep Engaging Youth in Science (KEYS) Mentor. KEYS Internship Program, University of Arizona. |
 
 For further information, please see here: [CV](http://gosmith2.github.io/pdf/__).
