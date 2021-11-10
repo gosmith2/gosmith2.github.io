@@ -4,8 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-For further research profiles, see my: [Google Scholar](https://scholar.google.com/citations?user=RlDWFDsAAAAJ), 
-[ResearchGate](https://www.researchgate.net/profile/Taylor_Smith48), and [ORCID](https://orcid.org/0000-0002-6763-7204)
+For further research profiles, see my: [Google Scholar](https://scholar.google.com/citations?user=Err62aEAAAAJ&hl) and [ORCID](https://orcid.org/0000-0001-6681-542X)
 
 
 ## Peer Reviewed Journal Articles
