@@ -13,5 +13,4 @@ header:
 excerpt: ""
 ---
 
-**Research**
-More details of my current and past research projects can be found on my [Research](https://gosmith2.github.io/research/) and [Publications](https://gosmith2.github.io/publications) pages.
+I am a broadly trained ecologist studying the behavior, and especially variation in behavior, for pollinating insects. I am broadly interested in the role intraspecific variation plays in determining the outcomes of interactions at the individual and community scales, as well as how behavior affects individuals' responses to environmental change. In answering these questions, I use diverse tools from physiological assays and metabarcoding to pollen load and network analysis. For more details on my current and past research projects, see my [Research](https://gosmith2.github.io/research/) and [Publications](https://gosmith2.github.io/publications) pages.
