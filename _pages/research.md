@@ -14,10 +14,10 @@ In my dissertation, I integrated field observations, behavioral assays, and phys
 I found that male and female moths of several species differ substantially in the pollen they carry, and therefore likely their foraging behavior.  Subsequent experiments suggested that the pollen loads likely differ because males spend more time flying and looking for mates, while females spend more time foraging and are constrained by offspring requirements. In a review across pollinator taxa, I argue that such differences are widespread and likely driven by underlying reproductive strategy differences. These differences have the potential to have large consequences for plants, but direct evidence of these consequences remains limited. Examining these and other intraspecific differences at the mechanistic scale continues as a large part of my work.
 
 <p float="right">
-  <img src="https://gosmith2.github.io/assets/images/dark_blacklighting.jpg" width="100",height="80/>
+  <img src="https://gosmith2.github.io/assets/images/dark_blacklighting.jpg" width="200",height="160/>
                                                                                                  </p>                                                                                            
 
-#![Blacklighting in the Santa Rita Experimental Range](https://gosmith2.github.io/assets/images/dark_blacklighting.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;width=100,height=100"}
+#![Blacklighting in the Santa Rita Experimental Range](https://gosmith2.github.io/assets/images/dark_blacklighting.jpg)
 
 During my first post-doc and continuing to the present, I also expanded this work from the individual scale to whole plant-pollinator communities using quantitative network analysis. By comparing observed plant-pollinator networks to simulated null networks, I found that males and females differed in the identity and diversity of flowers they visited, and that these differences were prevalent enough to affect the overall architecture of the networks. Future studies will examine the ecological contexts in which pollinator species are likely to differ more or less between the sexes. 
 
