@@ -26,4 +26,4 @@ In addition to examining pollinator network roles, during my first post-doc I wo
 
 For my ongoing NSF postdoc, I am examining how the floral foraging behavior of hawkmoths has changed in the face of habitat loss using preserved specimens in museum collections. Hawkmoths are charismatic and frequently collected by both scientists and hobbyists, making specimens readily available in many museums. Using these specimens, I am documenting the effects of rapid environmental change (i.e., deforestation) on the diversity and composition of flowers visited by the moths. 
 
-<img src="/assets/images/IMG_20210913_091913270.jpg" align="right" width="300" height="120">
+<img src="/assets/images/IMG_20210913_091913270.jpg" align="right" width="120" height="300">
