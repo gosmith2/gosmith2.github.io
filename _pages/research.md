@@ -13,7 +13,7 @@ Within this larger conceptual theme, my current research integrates diverse appr
 In my dissertation, I integrated field observations, behavioral assays, and physiological experiments to investigate the patterns, causes, and consequences of within-species variation in the pollination behavior of hawkmoths. Hawkmoths (Lepidoptera: Sphingidae) are important, but poorly studied, pollinators of night-blooming plants worldwide, with many endangered or threatened species relying heavily on pollination by this group. 
 I found that male and female moths of several species differ substantially in the pollen they carry, and therefore likely their foraging behavior.  Subsequent experiments suggested that the pollen loads likely differ because males spend more time flying and looking for mates, while females spend more time foraging and are constrained by offspring requirements. In a review across pollinator taxa, I argue that such differences are widespread and likely driven by underlying reproductive strategy differences. These differences have the potential to have large consequences for plants, but direct evidence of these consequences remains limited. Examining these and other intraspecific differences at the mechanistic scale continues as a large part of my work.
 
-<img src="/assets/images/dark_blacklighting.jpg" float="right">                             
+<img src="/assets/images/dark_blacklighting.jpg" float="right" width="200" height="160">                             
 ![Blacklighting in the Santa Rita Experimental Range](https://gosmith2.github.io/assets/images/dark_blacklighting.jpg "title1")
  float="right", width="200",height="160"
 
