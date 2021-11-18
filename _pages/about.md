@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 title: "Pollinator behavioral variation"
 header:
-  overlay_image: https://tasmi.github.io/images/008-IMG_1452.JPG
+  overlay_image: https://gosmith2.github.io/assets/images/IMG_20150720_193412054_HDR.jpg
   overlay_filter: 0.5
 excerpt: ""
 ---
