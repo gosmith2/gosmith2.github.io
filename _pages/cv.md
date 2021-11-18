@@ -31,4 +31,4 @@ redirect_from:
 | 2014 -- 2019 | Undergraduate mentor. Department of Ecology and Evolutionary Biology, University of Arizona. |
 | 2014 -- 2017 | Keep Engaging Youth in Science (KEYS) Mentor. KEYS Internship Program, University of Arizona. |
 
-For further information, please see here: [CV](http://gosmith2.github.io/pdf/__).
+For further information, please see here: [CV](http://gosmith2.github.io/assets/GSmithCV.pdf).
