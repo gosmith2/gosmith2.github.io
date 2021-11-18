@@ -21,4 +21,9 @@ During my first post-doc and continuing to the present, I also expanded this wor
 
 In addition to examining pollinator network roles, during my first post-doc I worked with a large team examining the effect of floral resource diversity on native pollinators and pathogens in sunflower fields. The pathogens infecting managed pollinators like honeybees are becoming increasingly concerning to farmers and beekeepers; this project aimed to study the microbial threats to wild bees in this system, and how it has been impacted by monoculture farming. We found that sunflower monoculture amplifies local parasite abundance and diversity, but that diverse managed hedgerows can dampen this effect. I also found that while flowers can serve as transmission hubs for pollinator pathogens, the majority of the bees’ microbiomes are likely acquired away from flowers. Thus, the combination of local resource availability and individual decisions affect the interactions of these bees with both plants and pathogens. 
 
+![Osmia on a sunflower in Yolo, CA](https://gosmith2.github.io/assets/images/IMG_20190722_105136743.jpg)
+
 For my ongoing NSF postdoc, I am examining how the floral foraging behavior of hawkmoths has changed in the face of habitat loss using preserved specimens in museum collections. Hawkmoths are charismatic and frequently collected by both scientists and hobbyists, making specimens readily available in many museums. Using these specimens, I am documenting the effects of rapid environmental change (i.e., deforestation) on the diversity and composition of flowers visited by the moths. 
+
+
+![Hawkmoth specimens](https://gosmith2.github.io/assets/images/IMG_20210913_091913270.jpg)
