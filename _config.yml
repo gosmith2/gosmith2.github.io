@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Gordon Smith"
-  avatar : "/assets/images/IMG_20190517_095621906.jpg"
+  avatar : "/assets/images/IMG_20190517_095621906.jpg" width="300" height="200"
   bio    : "Intraspecific variation in pollinator foraging behavior"
   links:
 
