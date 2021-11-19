@@ -1,11 +1,15 @@
 main:
-  - title: "CV"
-    url: /cv/
-  - title: "Publications"
-    url: /publications/
-  - title: "Contact"
-    url: /contact/
-  #- title: "About"
-  #  url: /about/
   - title: "Research"
     url: /research/
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "CV"
+    url: /cv/
+
+  #- title: "About"
+  #  url: /about/
+    
+  - title: "Contact"
+    url: /contact/
