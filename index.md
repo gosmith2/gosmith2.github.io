@@ -9,7 +9,7 @@ redirect_from:
 title: "Pollinator behavioral variation"
 header:
   overlay_image: https://gosmith2.github.io/assets/images/IMG_20150720_193412054_HDR.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.3
 excerpt: ""
 ---
 
