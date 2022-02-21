@@ -10,7 +10,7 @@ For further research profiles, see my: [Google Scholar](https://scholar.google.c
 ## Peer Reviewed Journal Articles
 
 8 | **Smith, GP.**, and LC. Ponisio. Sex-associated differences in the network roles of pollinators. 2021. Ecosphere, 12(12). https://doi.org/10.1002/ecs2.3863
-7 | Cohen, H., **GP. Smith**, H. Sardinas, JF. Zorn, QS. McFrederick, H. Woodard, and LC. Ponisio. Mass-flowering monoculture attracts bees, amplifying parasite prevalence. Proceedings B, 288: 20211369. https://doi.org/10.1098/rspb.2021.1369 
+7 | Cohen, H., **GP. Smith**, H. Sardinas, JF. Zorn, QS. McFrederick, H. Woodard, and LC. Ponisio. 2021. Mass-flowering monoculture attracts bees, amplifying parasite prevalence. Proceedings B, 288: 20211369. https://doi.org/10.1098/rspb.2021.1369 
 6 | **Smith, GP.**, G. Davidowitz, RA. Raguso, and J. Bronstein. 2021. Proboscis curling in a pollinator causes extensive pollen movement and loss. Ecological Entomology. http://doi.org/10.1111/een.13105
 5 | **Smith, GP.**, G. Davidowitz, R. Alarcón, D. Papaj, and J. Bronstein. 2021. Sex differences in the foraging behavior of a generalist hawkmoth. Insect Science, 1-11. 
 4 | Johnson, CA., **GP. Smith**, K. Yule, G. Davidowitz, J. Bronstein, and R. Ferrière. Coevolutionary transitions from antagonism to mutualism explained by the Co-Opted Antagonist hypothesis. Nature Communications, 12:2867. 
