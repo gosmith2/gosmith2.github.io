@@ -11,7 +11,8 @@ redirect_from:
 
 | Year | Position |
 |:----:|:--------:|
-| 2021 -- present | National Science Foundation Postdoctoral Fellow in Biology, hosted by Cornell University, Department of Neurobiology and Behavior |
+| 2023 -- present | Visiting Assistant Professor of Biology, Williams College |
+| 2021 -- 2023 | National Science Foundation Postdoctoral Fellow in Biology, hosted by Cornell University, Department of Neurobiology and Behavior |
 | 2020 -- 2021 | Postdoctoral Researcher, Department of Biology, University of Oregon |
 | 2019 -- 2020 | Postdoctoral Researcher, Department of Entomology, University of California Riverside |
 | 2013 -– 2019 | PhD Candidate, Department of Ecology and Evolutionary Biology, University of Arizona |
@@ -22,7 +23,9 @@ redirect_from:
 
 | Year | Position |
 |:----:|:--------:|
-| 2021 | Undergraduate mentor. Department of Neurobiology and Behavior, Cornell University. |
+| 2023 -- present | Primary Instructor, Williams College Department of Biology |
+| -- | Conservation Biology (329) |
+| 2021 -- 2023 | Undergraduate mentor. Department of Neurobiology and Behavior, Cornell University. |
 |2013 -- 2019 | Teaching assistant and guest lecturer. Department of Ecology and Evolutionary Biology, University of Arizona. 
 | -- | Introductory Biology (182): 2015, 2019 |
 | -- | Natural History of the Southwest (230): 2015 -- 2018  |
