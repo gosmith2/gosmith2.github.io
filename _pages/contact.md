@@ -5,9 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-Email: [gosmith2@gmail.com](mailto:gosmith2@gmail.com)
+Email: [gordon.smith@northwestern.edu](mailto:gordon.smith@northwestern.edu)
 
-[Department of Biology](https://biology.williams.edu/), [Williams College](https://www.williams.edu/)
-Thompson Biology Lab
-59 Lab Campus Drive
-Williamstown, MA 01267
+[Program in Plant Biology and Conservation](https://plantbiology.northwestern.edu/), Northwestern University
+2145 Sheridan Road,
+Tech F315, 
+Evanston, IL 60208
