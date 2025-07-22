@@ -9,7 +9,7 @@ For further research profiles, see my: [Google Scholar](https://scholar.google.c
 
 ## Peer Reviewed Journal Articles
 
-10 | **Smith, GP.,** H. Cohen, JF. Zorn, QS. McFrederick, and LC. Ponisio. Plant-pollinator network architecture does not impact intraspecific microbiome variability. _In revision, Molecular Ecology_.
+10 | **Smith, GP.,** H. Cohen, JF. Zorn, QS. McFrederick, and LC. Ponisio. 2024. Plant-pollinator network architecture does not impact intraspecific microbiome variability. Molecular Ecology 33(7): e17306, https://doi.org/10.1111/mec.17306
 9 | **Smith, GP.**, C. Kim and RA. Raguso. 2022. Pollen accumulation on hawkmoths varies substantially among moth-pollinated flowers. Journal of Pollination Ecology, 32. https://doi.org/10.26786/1920-7603(2022)701 
 8 | **Smith, GP.**, and LC. Ponisio. Sex-associated differences in the network roles of pollinators. 2021. Ecosphere, 12(12). https://doi.org/10.1002/ecs2.3863
 7 | Cohen, H., **GP. Smith**, H. Sardinas, JF. Zorn, QS. McFrederick, H. Woodard, and LC. Ponisio. 2021. Mass-flowering monoculture attracts bees, amplifying parasite prevalence. Proceedings B, 288: 20211369. https://doi.org/10.1098/rspb.2021.1369 
